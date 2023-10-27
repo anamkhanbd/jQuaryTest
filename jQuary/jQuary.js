@@ -10,4 +10,19 @@ $(document).ready(function() {
         'font-size': 'large',
         'font-family': 'sans-serif'
     });
+    $('.secound').css({
+        'color': 'crimson',
+        'padding': '1px',
+        'line-height': 'normal',
+        'text-shadow': 'black',
+        'font-family': 'sans-serif',
+        'font-weight': 'lighter',
+        'opacity': '70%',
+        'transition': '0.5s all'
+    });
+
+    $('.secound:hover').css({
+        'opacity': '100%',
+        'color': 'brown'
+    });
 });

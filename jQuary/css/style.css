@@ -1,6 +1,15 @@
-p {
-    text-align: center;
+.secound {
     color: crimson;
-    font-size: large;
+    padding: 1px;
+    line-height: normal;
+    text-shadow: black;
     font-family: sans-serif;
+    font-weight: lighter;
+    opacity: 70%;
+    transition: 0.5s all;
+}
+
+.secound:hover {
+    opacity: 100%;
+    color: brown;
 }
