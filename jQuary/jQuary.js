@@ -26,7 +26,23 @@ $(document).ready(function() {
         'color': 'brown'
     });
 
+    // mouse events here;
+    $('#head1').click(function() {
+        $('#head1').css({
+            'background-color': 'red'
+        });
+    });
 
+    $('.text_p').hover(function() {
+        $('.text_p').css({
+            'transition': '0.5s all',
+            'color': 'black'
+        });
+    });
+
+    $('.paragraph_p').click(function() {
+        $('.paragraph_p').add('.minimo');
+    });
 
 
 

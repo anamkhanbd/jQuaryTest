@@ -1,17 +1,5 @@
-.secound {
+.minimo {
     color: crimson;
-    padding: 1px;
-    line-height: normal;
-    text-shadow: black;
-    font-family: sans-serif;
+    font-size: xx-large;
     font-weight: lighter;
-    opacity: 70%;
-    transition: 0.5s all;
 }
-
-.secound:hover {
-    opacity: 100%;
-    color: brown;
-}
-
-* {}
