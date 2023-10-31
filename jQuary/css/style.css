@@ -3,3 +3,12 @@
     font-size: xx-large;
     font-weight: lighter;
 }
+
+#colorName {
+    width: 100%;
+    height: auto;
+    min-height: 100px;
+    max-height: 500px;
+    background-color: transparent;
+    border: 1px solid black;
+}
