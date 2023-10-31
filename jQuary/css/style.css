@@ -12,3 +12,29 @@
     background-color: transparent;
     border: 1px solid black;
 }
+
+
+/* image creator app */
+
+.box {
+    width: 100%;
+    height: auto;
+    min-height: 250px;
+    max-height: 500px;
+    overflow: scroll;
+    text-align: center;
+}
+
+.p_box {
+    font-size: 100px;
+}
+
+.bb {
+    color: black;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.bb:hover {
+    color: red;
+}

@@ -88,4 +88,83 @@ $(document).ready(function() {
 
 
 
+    // starding js oparetion [image creting pages ]
+
+    //Color v-1.0.1
+    $('.red').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('color', 'red');
+    });
+    $('.black').click(function(e) {
+        e.preventDefault();
+        $('.p_p_box').css('color', 'black');
+    });
+    $('.green').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('color', 'green');
+    });
+    $('.crimson').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('color', 'crimson');
+    });
+    $('.yellow').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('color', 'yellow');
+    });
+    $('.gray').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('color', 'gray');
+    });
+    $('.cayan').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('color', 'cayan');
+    });
+    $('.white').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('color', 'white');
+    });
+
+    //Font Size v-1.0.1
+
+    $('xxsmall').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('font-size', '10px');
+    });
+    $('xsmall').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('font-size', '20px');
+    });
+    $('ssmall').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('font-size', '30px');
+    });
+    $('media,').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('font-size', '40px');
+    });
+    $('large').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('font-size', '50px');
+    });
+    $('xlarge').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css('font-size', '60px');
+    });
+    $('xxlarge').click(function(e) {
+        e.preventDefault();
+        $('.p_box').css({ 'font-size': '100px' });
+    });
+
+
+
+
+
+
+
+
+
+
+
+
+
 });
