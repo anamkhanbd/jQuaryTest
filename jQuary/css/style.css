@@ -14,6 +14,16 @@
 }
 
 
+/* papi text */
+
+.papi {
+    background-color: black;
+    color: #fff;
+    margin-left: 299px;
+    opacity: 0%;
+}
+
+
 /* image creator app */
 
 .box {

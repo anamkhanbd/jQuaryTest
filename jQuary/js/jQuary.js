@@ -155,6 +155,12 @@ $(document).ready(function() {
         $('.p_box').css({ 'font-size': '100px' });
     });
 
+    /* papi dropDown */
+    $('#disable').click(function(e) {
+        e.preventDefault();
+        $('.papi').css('opacity', '100%');
+    });
+
 
 
 
