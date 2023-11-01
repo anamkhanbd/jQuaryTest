@@ -157,8 +157,7 @@ $(document).ready(function() {
 
     /* papi dropDown */
     $('#disable').click(function(e) {
-        e.preventDefault();
-        $('.papi').css('opacity', '100%');
+        location.reload();
     });
 
 
