@@ -54,3 +54,24 @@ a {
 .bb:hover {
     color: red;
 }
+
+
+/*GetElement Pages Css */
+
+#p_set {
+    width: 100%;
+    height: auto;
+    min-height: 50px;
+    max-height: 400px;
+    overflow: auto;
+    border: 1px solid black;
+}
+
+#text_set {
+    width: 100%;
+    height: auto;
+    min-height: 50px;
+    max-height: 400px;
+    overflow: auto;
+    border: 1px solid black;
+}
