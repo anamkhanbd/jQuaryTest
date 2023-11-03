@@ -4,7 +4,7 @@ $(document).ready(function() {
 
     $('*').css({
         'background': 'white',
-        'user-select': 'none',
+        // 'user-select': 'none',
     });
     $('h3').css('color', 'crimson');
     $('p:first').css({
