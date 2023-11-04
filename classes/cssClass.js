@@ -31,6 +31,9 @@ $(document).ready(function() {
         $('ol').prepend("<li> New name </li>");
     });
 
+    $('ol').before('<h1>This is a List</h1>');
+    $('ol').after('<p>End list</p>');
+
 
 
 });
