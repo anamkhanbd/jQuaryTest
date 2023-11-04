@@ -1,0 +1,62 @@
+// There are all mathod name an name with method guite here 
+
+:::::::::: ready () :::::::::
+when jquery document is Ready it Work.
+
+:::::::::: click () :::::::::
+Button an Div or any object click to work method
+
+:::::::::: dblclick () :::::::::
+double click to working button
+
+:::::::::: mouseover () :::::::::
+moue up to active this method
+
+:::::::::: mouseout () :::::::::
+mouse out to active this event 
+
+:::::::::: keyup () :::::::::
+this is a keyboard evet . when key up to press working this event .
+
+:::::::::: keydown/keypress () :::::::::
+press key in keyboard to call this event 
+
+:::::::::: css () :::::::::
+change css proparty and modify its to use css()
+
+:::::::::: appent () :::::::::
+add text to docunemt last section 
+
+:::::::::: prepent () :::::::::
+add text to start document first 
+
+:::::::::: befor () :::::::::
+add te another section start doument 
+
+:::::::::: after () :::::::::
+add text to end section finished document 
+
+:::::::::: clone () :::::::::
+make clone 
+
+:::::::::: on () :::::::::
+use maney event to one single line 
+
+:::::::::: off () :::::::::
+use on off 
+
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
+:::::::::: ready () :::::::::
