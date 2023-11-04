@@ -34,6 +34,9 @@ $(document).ready(function() {
     $('ol').before('<h1>This is a List</h1>');
     $('ol').after('<p>End list</p>');
 
+    $('#toggle').click(function() {
+        $('#minomo').toggle(5000);
+    });
 
 
 });

@@ -45,15 +45,63 @@ use maney event to one single line
 :::::::::: off () :::::::::
 use on off 
 
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
-:::::::::: ready () :::::::::
+:::::::::: replaceWith () :::::::::
+replace tag and this tag attibute .
+
+:::::::::: replace () :::::::::
+working too like replace .
+
+:::::::::: wrap () :::::::::
+make a parant div .
+
+:::::::::: unwrap () :::::::::
+remove parant div .
+
+:::::::::: wrapInner () :::::::::
+wrap the content not attibute 
+
+:::::::::: width () :::::::::
+content width 
+
+:::::::::: innerWidth () :::::::::
+full div conten with padding width 
+
+:::::::::: outerWidth () :::::::::
+full width with border 
+
+:::::::::: height () :::::::::
+content height 
+
+:::::::::: innerHeight () :::::::::
+padding + conten height 
+
+:::::::::: outerHeight () :::::::::
+border + padding + content heaight 
+
+:::::::::: outerWidth (true) :::::::::
+with margin get width 
+
+:::::::::: outerHeight (true) :::::::::
+margin + border + padding + content  height 
+
+:::::::::: position () :::::::::
+only locaton margin and padding 
+
+:::::::::: offset () :::::::::
+all location with content 
+
+:::::::::: scrolltop () :::::::::
+vertical scroll with button 
+
+:::::::::: scrollleft () :::::::::
+horizontal scroll with button 
+
+:::::::::: hide () :::::::::
+hide method 
+
+:::::::::: show () :::::::::
+hide items id showing 
+
 :::::::::: ready () :::::::::
 :::::::::: ready () :::::::::
 :::::::::: ready () :::::::::
