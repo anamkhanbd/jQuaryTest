@@ -23,6 +23,14 @@ $(document).ready(function() {
     });
 
 
+    //appdend and prepend
+    $('#appent').click(function() {
+        $('ol').append("<li> New name </li>");
+    });
+    $('#preepent').click(function() {
+        $('ol').prepend("<li> New name </li>");
+    });
+
 
 
 });
